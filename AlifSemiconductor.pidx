@@ -9,5 +9,6 @@
     <pdsc vendor="AlifSemiconductor" url="https://github.com/alifsemi/alif_ensemble-FreeRTOS-Components/raw/main/" name="FreeRTOSComponents" version="1.0.0" />
     <pdsc vendor="AlifSemiconductor" url="https://github.com/alifsemi/alif_dave2d-driver/raw/main/" name="Dave2DDriver" version="1.0.0" />
     <pdsc vendor="AlifSemiconductor" url="https://github.com/alifsemi/alif_lvgl-dave2d/raw/main/" name="LVGL_DAVE2D" version="1.0.0" />
+    <pdsc vendor="AlifSemiconductor" url="https://github.com/alifsemi/alif_image-processing-lib/raw/main/" name="AIPL" version="1.0.0" />
   </pindex>
 </index>
