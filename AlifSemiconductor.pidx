@@ -2,9 +2,9 @@
 <index schemaVersion="1.0.0" xs:noNamespaceSchemaLocation="PackIndex.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance">
   <vendor>AlifSemiconductor</vendor>
   <url>https://github.com/alifsemi/alif_cmsis_packs/raw/main/</url>
-  <timestamp>2026-07-01T00:40:00</timestamp>
+  <timestamp>2026-09-04T18:50:00</timestamp>
   <pindex>
-    <pdsc vendor="AlifSemiconductor" url="https://github.com/alifsemi/alif_ensemble-cmsis-dfp/raw/main/" name="Ensemble" version="2.2.0" />
+    <pdsc vendor="AlifSemiconductor" url="https://github.com/alifsemi/alif_ensemble-cmsis-dfp/raw/main/" name="Ensemble" version="2.2.1" />
     <pdsc vendor="AlifSemiconductor" url="https://github.com/alifsemi/alif_ensemble-Azure-RTOS/raw/refs/tags/v1.3.0/" name="AzureRTOS" version="1.3.0" />
     <pdsc vendor="AlifSemiconductor" url="https://github.com/alifsemi/alif_ensemble-FreeRTOS-Components/raw/main/" name="FreeRTOSComponents" version="1.0.0" />
     <pdsc vendor="AlifSemiconductor" url="https://github.com/alifsemi/alif_dave2d-driver/raw/main/" name="Dave2DDriver" version="2.0.2" />
